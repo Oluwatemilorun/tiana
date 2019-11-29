@@ -1,0 +1,26 @@
+{
+  "name": "tiana",
+  "version": "0.0.1",
+  "description": "A lesson for tiana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oluwatemilorun/clepius-server.git"
+  },
+  "keywords": [
+    "tiana",
+    "js",
+    "any",
+    "other",
+    "thing"
+  ],
+  "author": "Tiana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oluwatemilorun/clepius-server/issues"
+  },
+  "homepage": "https://github.com/Oluwatemilorun/clepius-server#readme"
+}
