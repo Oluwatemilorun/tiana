@@ -15,8 +15,4 @@ function findLongestWord(sentence) {
 	return longestWord
 }
 
-let sentence = 'my name is tiana';
-let longestWord = findLongestWord(sentence);
-console.log(longestWord);
-
 module.exports = findLongestWord;
